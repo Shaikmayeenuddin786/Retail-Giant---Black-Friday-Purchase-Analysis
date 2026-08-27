@@ -510,7 +510,7 @@ print(age_avg)
 
 ---
 
-## Final Conclusion (Short Summary)
+## Final Conclusion
 
 **Men and customers aged 46+ are Walmart's highest spenders on Black Friday.** Married vs unmarried makes no difference – so ignore it. Shift ad budget to men's products, start a loyalty program for older customers, and keep women's offers discount-focused. Simple changes, real impact.
 
@@ -567,8 +567,12 @@ print(age_avg)
 
 ---
 
-## 👤 Author
+# 👤 **Author**
 
-### Shaik Mayeenuddin
+### **Shaik Mayeenuddin**
 
-**Business Analyst | Data Analytics & AI/ML | Optimizing Processes to Drive Revenue & Retention**
+#### Business Analyst | Data Analytics & AI/ML | Optimizing Processes to Drive Revenue & Retention
+
+🔗https://www.linkedin.com/in/shaikmayeenuddin
+
+
